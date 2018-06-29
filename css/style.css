@@ -1,0 +1,10 @@
+body {
+  	padding-top: 5%;
+	background-image: url(bgcolor.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-left: 20%;
+}
+td {
+	padding-bottom: 1%;
+}
